@@ -70,7 +70,7 @@ CONECT 2496 2827
 CONECT 2501 2826                                                                
 CONECT 2508 2825                                                                
 CONECT 2512 2825  
-``
+```
 
 
 * Extract the first chain of the structure in an independant file. 
