@@ -4,6 +4,8 @@ Download the structure of Lamin A (PDB code:1IFR). Mutate the residue R527 by an
 What can be the consequence of this mutation ? 
 Use the [SDM](http://marid.bioc.cam.ac.uk/sdm2/) to help you in the analysis. 
 
+![LamA](https://raw.githubusercontent.com/hothman/ASBMA_course/master/day3/figures/mut1.png)
+
 ## Case 2
 Bacteriorhodopsin is a protein used by Archaea acting as a proton pump to produce chemical energy (ATP). 
 Download only the chain B of Bacteriorhodopsin using PyMOL `(fetch 1S51_B)`.  Clean the structure and mutate residue P91 to Gly. Choose the right rotamer and refine with chimera using a tw stages of energy minimization. 
