@@ -31,6 +31,7 @@ Run chimera using Ubuntu dock or by typing in the command line:
 * Open the WT and the refined structure and fit them together. Notice the RMSD value.
 
 ### Case 2 
+
 We will now use the same structure of KCSA to mutate the residue N58 to Arg. This will help you to practice the rotamer selection. 
 
 # Exploring the protein complexes
@@ -38,6 +39,7 @@ We will now use the same structure of KCSA to mutate the residue N58 to Arg. Thi
 We are going to use pymol to explore the structures of complexes. 
 
 ### Case1 : Protein-Ptotein complex 
+
 * Download the structure of `2A9H` from the [protein data bank](www.rcsb.org).
 * Open the structure in pymol.
 * Define the lif=gand and the receptor and color them differently.
@@ -56,6 +58,7 @@ We are going to use pymol to explore the structures of complexes.
 Finally reinitialize pymol, open the same complex again and use the [InterfaceResidues plugin](https://pymolwiki.org/index.php/InterfaceResidues) to extract the residue interface.
 
 ### Case2: Protein ligand complex 
+
 * What is the complex described in the entry 3RFM. 
 * Use the [Protein-Ligand Interaction Profiler](https://projects.biotec.tu-dresden.de/plip-web/plip/index) to identify the polar bonds between the ligand and the receptor. 
 * Open the structure in PyMOL and adjust the view to zoom on the ligand. 
